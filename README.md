@@ -1,2 +1,2 @@
 # Type1_Fuzzy_Inference_System
-Implementation of Type 1 fuzzy inference system with 2 antecedent and 1 consequent
+This repo has python implementation for Type 1 Fuzzy Inference System concepts with 2 Antecedents and 1 Consequent. 

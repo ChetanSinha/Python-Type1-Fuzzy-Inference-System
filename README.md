@@ -1,5 +1,6 @@
-# Type-1_Fuzzy_Inference_System
-This repo has python implementation for Type 1 Fuzzy Inference System concepts with 2 Antecedents and 1 Consequent. 
+# This project is divided into 4 parts: 
+
+* Interval type-1 fuzzy inference system with crisp inputs: https://github.com/ChetanSinha/Python-Type1-Fuzzy-Inference-System
 
 * Interval type-2 fuzzy inference system with crisp inputs: https://github.com/ChetanSinha/Python-Interval-Type2-fuzzy-inference-system
 
@@ -7,6 +8,8 @@ This repo has python implementation for Type 1 Fuzzy Inference System concepts w
 
 * Interval type-2 fuzzy inference system with type-2 inputs: https://github.com/ChetanSinha/Interval-Type2-Fuzzy-Inference-System-with-Type2-inputs
 
+## Type-1_Fuzzy_Inference_System
+This repo has python implementation for Type 1 Fuzzy Inference System concepts with 2 Antecedents and 1 Consequent.
 
 Type1_FuzzySystem_Func.py: Contains all the functions used to perform the implementation of Type 1 Fuzzy Inference System
 
